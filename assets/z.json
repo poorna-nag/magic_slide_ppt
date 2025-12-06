@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "Presentation generated successfully",
+  "data": {
+    "url": "https://djgurnpwsdoqjscwqbsj.supabase.co/storage/v1/object/public/presentations/AIinHealthcareRevolution7f113730ef9a8e5f.pptx",
+    "pdfUrl": "https://djgurnpwsdoqjscwqbsj.supabase.co/storage/v1/object/public/pdfs/AIinHealthcareRevolution_GfwhLHbZ.pdf",
+    "success": true
+  }
+}
