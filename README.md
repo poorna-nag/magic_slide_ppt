@@ -1,6 +1,6 @@
-# magic_slide_ppt
+# magic_slide_ppt(BLoC + Supabase + HTTP)
 
-# MagicSlides Flutter (BLoC + Supabase + HTTP)
+
 
 ## What it is
 A simple Flutter app demonstrating:
@@ -45,3 +45,7 @@ Because of that:
   
 ## demo Folder 
 - you see the demo App
+## GitHub Repository
+
+You can find the full project source here:  
+**https://github.com/poorna-nag/magic_slide_ppt.git**
